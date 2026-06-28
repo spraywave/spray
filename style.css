@@ -1,0 +1,22 @@
+/*
+Theme Name: Spray™
+Theme URI: https://spray.art.br
+Author: Bruno Trocoli
+Version: 0.1
+Description: Um tema WordPress customizado, leve, performático e feito sob medida.
+Text Domain: spray
+*/
+
+/* CSS3 */
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    font-size: 12px;
+    text-transform: uppercase;
+}
